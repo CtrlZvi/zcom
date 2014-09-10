@@ -1,4 +1,4 @@
 zcom
 ====
 
-XCom type game writtenin Rust
+XCom type game written in Rust
